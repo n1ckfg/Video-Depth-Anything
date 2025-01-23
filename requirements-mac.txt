@@ -1,0 +1,12 @@
+numpy
+torch
+torchvision
+opencv-python
+matplotlib==3.7.3
+pillow
+mediapy
+#decord
+#xformers
+einops
+easydict
+tqdm
